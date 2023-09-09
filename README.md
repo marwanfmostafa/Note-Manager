@@ -3,7 +3,7 @@
 
 ## Description
 
-This application allows the user to create and save notes. The application is deployed Heroku and notes are saved.
+This application allows the user to create and save notes. The application is deployed via Heroku.
 
 ![App screenshot](/public/assets/images/Application_Screenshot.jpeg)
 
