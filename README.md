@@ -24,6 +24,11 @@ The user can write note names and text via the UI.
 Notes are saved to the note list using the save button.
 The application can be viewed at the following link: (https://agile-plateau-59152-bf9c0f391696.herokuapp.com/notes)
 
+## License
+
+[License Details](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Credits
 
 NA
