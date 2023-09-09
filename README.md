@@ -1,5 +1,5 @@
 
-# Note Taker
+# Note Manager
 
 ## Description
 
