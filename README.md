@@ -16,15 +16,17 @@ This application allows the user to create and save notes. The application is de
 
 ## Installation
 
-The application is deployed to the cloud server and does not require installation. For usage, look in the next section for the deployed URL.
+The application is deployed to the cloud server and does not require any specific steps for installation. 
 
 ## Usage
 
-The user can write note names and text via the UI on the right. Notes are saved to the note list on the left using the save button in the top right. Notes can also be deleted and re-access by using the buttons in the note list. Finally, The + icon to the right of the save icon can be used to stop viewing a saved note and enter a new one. The entire application can be viewed and used at the following link: (https://agile-plateau-59152-bf9c0f391696.herokuapp.com/notes)
+The user can write note names and text via the UI.
+Notes are saved to the note list using the save button.
+The application can be viewed at the following link: (https://agile-plateau-59152-bf9c0f391696.herokuapp.com/notes)
 
 ## Credits
 
-No other people contributed to this project.
+NA
 
 ## How to Contribute
 
@@ -32,7 +34,7 @@ NA
 
 ## Tests
 
-Since this is a cloud-based application no errors should occur. If any errors are found, please report them to me via contact information so that the the bugs can be fixed and the code re-deployed to the server.
+Since this is a cloud-based application, therefore no errors should occur. If an error is encountered, please email marwanmostafa@gmail.com
 
 ## Questions
 
